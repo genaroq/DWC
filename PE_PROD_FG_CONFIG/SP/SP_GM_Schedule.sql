@@ -2,7 +2,7 @@
 * PROYECTO        : Framework Generico de Extraccion y Carga de Informacion DWC (Python) 
 * FUNCION         : Generar informacion de la tabla de Instancias de Ejecucion o Agendamiento,
 *                   considerando procesos con predecesor y sin predecesor.
-* TABLA(S) BASE   : PE_DESA_FG_CONFIG.TB_SCHEDULE
+* TABLA(S) BASE   : PE_PROD_FG_CONFIG.SP_GM_Schedule
 * NOTAS           : 
 * AUTOR           : TdP Pedro Moreno Ampuero PROD
 * BITACORA DE CAMBIOS
